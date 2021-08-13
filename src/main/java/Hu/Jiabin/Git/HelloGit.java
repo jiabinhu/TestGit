@@ -5,18 +5,19 @@ public class HelloGit
 	public static void main(String[] args)
 	{
 		System.out.println("Hello Git");
-		System.out.println("¸üĞÂ1");
-		System.out.println("´´½¨·ÖÖ§1");//MergeºÏ²¢·ÖÖ§   Branch´´½¨·ÖÖ§
-		System.out.println("Ö÷¸ÉÌí¼Ó");
-		System.out.println("´´½¨·ÖÖ§1");
-		System.out.println("·ÖÖ§Ìí¼Ó");
-		//ÔÚgithubÀïÃæÊ×ÏÈ½øĞĞÁËÒ»¸öÔÚÏß¸üĞÂ£¬
-		//µ¼ÖÂµÄ½á¹ûÕâ±ßÃ»ÓĞ¸üĞÂµ½×îĞÂµÄ°æ±¾¡£
-		//ÖØĞÂÌá½»¸üĞÂÊ§°Ü
-		System.out.println("µÚ¶ş´ÎÌá½»Ö®Ç°µÄ¸üĞÂ");
-		//Ê¹ÓÃpull,¸üĞÂ±¾µØ²Ö¿â
-		System.out.println("µÚÈı´ÎÌá½»¸üĞÂ");
-		System.out.println("ÔÚÏßµÄ¸üĞÂ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½1");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§1");//Mergeï¿½Ï²ï¿½ï¿½ï¿½Ö§   Branchï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö§1");
+		System.out.println("ï¿½ï¿½Ö§ï¿½ï¿½ï¿½");
+		//ï¿½ï¿½githubï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ß¸ï¿½ï¿½Â£ï¿½
+		//ï¿½ï¿½ï¿½ÂµÄ½ï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½Ğ¸ï¿½ï¿½Âµï¿½ï¿½ï¿½ï¿½ÂµÄ°æ±¾ï¿½ï¿½
+		//ï¿½ï¿½ï¿½ï¿½ï¿½á½»ï¿½ï¿½ï¿½ï¿½Ê§ï¿½ï¿½
+		System.out.println("ï¿½Ú¶ï¿½ï¿½ï¿½ï¿½á½»Ö®Ç°ï¿½Ä¸ï¿½ï¿½ï¿½");
+		//Ê¹ï¿½ï¿½pull,ï¿½ï¿½ï¿½Â±ï¿½ï¿½Ø²Ö¿ï¿½
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á½»ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½ßµÄ¸ï¿½ï¿½ï¿½");
+		System.out.println("ä¹±ç è§£å†³");
 
 
 	
