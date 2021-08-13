@@ -16,7 +16,7 @@ public class HelloGit
 		//重新提交更新失败
 		System.out.println("第二次提交之前的更新");
 		//使用pull,更新本地仓库
-		System.out.println("在线添加");
+		System.out.println("在线的添加");
 
 		
 	}
