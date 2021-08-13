@@ -19,6 +19,7 @@ public class HelloGit
 		//使用pull,更新本地仓库
 		System.out.println("第三次提交之前的更新");
 		System.out.println("乱码解决1");
+		System.out.println("乱码的解决");
 	}
 
 
