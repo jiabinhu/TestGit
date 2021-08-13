@@ -16,8 +16,9 @@ public class HelloGit
 		System.out.println("第二次提交之前的更新");
 		//使用pull,更新本地仓库
 		System.out.println("第三次提交更新");
+		System.out.println("在线的更新");
 
 
-		
+	
 	}
 }
